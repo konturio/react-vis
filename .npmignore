@@ -1,0 +1,12 @@
+src/
+showcase/
+docs/
+tests/
+website/
+.editorconfig
+.prettierrc
+.stylelintrc
+.travis.yml
+publish-docs.sh
+remove-refs-to-unpm.pl
+*.md
